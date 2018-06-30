@@ -10,8 +10,7 @@ function logShout(string) {
 function logWhisper(string) {
     console.log(whisper(sting))
 }
-var upperCase
-function sayHiToGrandma() {
+function sayHiToGrandma(string) {
   if  (uppercase.toUpperCase() == uppercase) {
     return "I can't hear you!"
   }
