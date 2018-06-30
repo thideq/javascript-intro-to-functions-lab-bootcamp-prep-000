@@ -1,3 +1,5 @@
+var string = "I love you, Grandma."
+
 function shout(string) {
     return string.toUpperCase()
 }
